@@ -1,0 +1,71 @@
+form{
+	    box-shadow: 0px 0px 8px 0px rgba(0,0,0,1);
+    width: 400px;
+    height: 350px;
+    margin-left: 750px;
+}
+div#container{
+	height: 210px;
+}
+div#name{
+	margin-top: 20px;
+}
+div.input{
+	font-family: tahoma;
+	font-size: 23px;
+}
+div#header{
+	border-bottom: 1px solid gray;
+	height: 40px;
+}
+h1{
+	font-size: 20px;
+	padding-top: 8px;
+	padding-bottom: 5px;
+	padding-left: 8px;
+}
+div#all{
+	margin-bottom: 18px;
+	margin-left: 190px;
+}
+div.input{
+	padding-left: 12px;
+}
+input#update{
+	font-family: tahoma;
+	font-weight: bold;
+	background: orange;
+}
+button{
+	font-family: tahoma;
+	font-weight: bold;
+	background: orange;
+}
+div#button{
+	margin-left: 183px;
+	padding-top: 8px;
+	padding-bottom: 3px;
+}
+div#footer{
+	border-top: 1px solid gray;
+}
+p.footers{
+	text-align: right;
+	padding-right: 10px;
+	margin-top: 10px;
+}
+input.one{
+	margin-left: 120px;
+}
+input.two{
+	margin-left: 6px;
+}
+input.three{
+	margin-left: 105px;
+}
+input.four{
+	margin-left: 65px;
+}
+input.five{
+	margin-left: 66px;
+}
